@@ -14,3 +14,28 @@ header {
         background-size: cover;
     }
 }
+
+body {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        line-height: 1.2;
+    }
+    font-size: 1rem;
+    .fa {
+        margin-top: 1%;
+        margin-right: 5%;
+    }
+    .tall {
+        height: 35px;
+    }
+    .fab {
+        margin: 0 3%;
+    }
+    a {
+        text-decoration: none;
+    }
+}
