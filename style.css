@@ -1,0 +1,13 @@
+header nav .fix {
+  position: fixed;
+  left: 0;
+  right: 0;
+}
+header .intro {
+  background-image: url(https://mdbootstrap.com/img/Photos/Horizontal/Nature/full%20page/img%20%283%29.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+/*# sourceMappingURL=style.css.map */
